@@ -1,0 +1,14 @@
+[
+    {
+      "fileName" : "simple_peripheral_oad_onchip_CC26X2R1_LAUNCHXL_tirtos7_ticlang_oad.bin",
+      "version" : "2.6.2",
+      "hwType" : "hwType",
+      "imageType" : "ti"
+    },
+    {
+      "fileName" : "basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin",
+      "version" : "2.6.2",
+      "hwType" : "hwType",
+      "imageType" : "mcuboot"
+    }
+]
