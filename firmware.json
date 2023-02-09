@@ -10,5 +10,11 @@
       "version" : "2.6.2",
       "hwType" : "hwType",
       "imageType" : "mcuboot"
-    }
+    },
+    {
+      "fileName" : "basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad.bin",
+      "version" : "2.6.2",
+      "hwType" : "hwType",
+      "imageType" : "mcuboot"
+    }    
 ]
