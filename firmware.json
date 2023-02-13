@@ -22,5 +22,11 @@
       "version" : "6.41.00.02a",
       "hwType" : "hwType",
       "imageType" : "mcuboot"
+    },
+    {
+      "fileName" : "data_stream_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad-6.41.00.02a.bin",
+      "version" : "6.41.00.02a",
+      "hwType" : "hwType",
+      "imageType" : "mcuboot"
     }
 ]
