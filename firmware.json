@@ -2,37 +2,37 @@
     {
       "fileName" : "simple_peripheral_oad_onchip_CC26X2R1_LAUNCHXL_tirtos7_ticlang_oad.bin",
       "version" : "2.6.2",
-      "hwType" : "hwType",
+      "hwType" : "CC26X2R1_LAUNCHXL",
       "imageType" : "ti"
     },
     {
       "fileName" : "basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin",
       "version" : "6.40.00.21",
-      "hwType" : "hwType",
+      "hwType" : "LP_EM_CC2340R5",
       "imageType" : "mcuboot"
     },
     {
       "fileName" : "basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad.bin",
       "version" : "6.40.00.21a",
-      "hwType" : "hwType",
+      "hwType" : "LP_EM_CC2340R5",
       "imageType" : "mcuboot"
     },
     {
       "fileName" : "basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad-6.41.00.02a.bin",
       "version" : "6.41.00.02a",
-      "hwType" : "hwType",
+      "hwType" : "LP_EM_CC2340R5",
       "imageType" : "mcuboot"
     },
     {
       "fileName" : "data_stream_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad-6.41.00.02a.bin",
       "version" : "6.41.00.02a",
-      "hwType" : "hwType",
+      "hwType" : "LP_EM_CC2340R5",
       "imageType" : "mcuboot"
     },
     {
       "fileName" : "data_stream_uart_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad.bin",
       "version" : "6.41.00.02a",
-      "hwType" : "LP_CC2340R5",
+      "hwType" : "LP_EM_CC2340R5",
       "imageType" : "mcuboot"
     }
 ]
