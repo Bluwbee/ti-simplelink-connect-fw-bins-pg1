@@ -28,17 +28,5 @@
       "version" : "6.41.00.02a",
       "hwType" : "LP_EM_CC2340R5",
       "imageType" : "mcuboot"
-    },
-    {
-      "fileName" : "data_stream_uart_oad_LP_EM_CC2340R5_freertos_ticlang.bin-v.2.0.0-mcuboot-service-nopad.bin",
-      "version" : "6.41.00.02a",
-      "hwType" : "LP_EM_CC2340R5",
-      "imageType" : "mcuboot"
-    },
-    {
-      "fileName" : "basic_ble_oad_onchip_LP_EM_CC1354P10_6_tirtos7_ticlang-pg1-mcuboot-7.10.00.65-v3.0.0.bin",
-      "version" : "7.10.00.65a",
-      "hwType" : "Test",
-      "imageType" : "mcuboot"
     }
 ]
