@@ -12,6 +12,12 @@
       "imageType" : "mcuboot"
     },
     {
+      "fileName" : "basic_ble_oad_offchip_LP_EM_CC1354P10_6_tirtos7_ticlang-pg1-mcuboot-service-7.10.00.65-v2.0.0.bin",
+      "version" : "7.10.00.65c",
+      "hwType" : "LP_EM_CC1354P10_6",
+      "imageType" : "mcuboot"
+    },    
+    {
       "fileName" : "basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin",
       "version" : "6.40.00.21",
       "hwType" : "LP_EM_CC2340R5",
