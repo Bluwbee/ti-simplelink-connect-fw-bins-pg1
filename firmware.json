@@ -1,5 +1,65 @@
 [
-    {
+  {
+    "fileName" : "simple_peripheral_1.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_2.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_3.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_4.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_5.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_6.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_7.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_8.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_9.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+  {
+    "fileName" : "simple_peripheral_10.bin",
+    "version" : "2.6.2",
+    "hwType" : "CC26X2R1_LAUNCHXL",
+    "imageType" : "ti"
+  },
+{
       "fileName" : "simple_peripheral_oad_onchip_CC26X2R1_LAUNCHXL_tirtos7_ticlang_oad.bin",
       "version" : "2.6.2",
       "hwType" : "CC26X2R1_LAUNCHXL",
