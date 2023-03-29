@@ -49,12 +49,12 @@
   },
   {
     "fileName" : "simple_peripheral_9.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
+    "version" : "7.10.00.09_2.0.0",
+    "hwType" : "LP_EM_CC2340R5",
     "imageType" : "ti"
   },
   {
-    "fileName" : "simple_peripheral_10.bin",
+    "fileName" : "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang_sdk7100009_v2.0.0.bin",
     "version" : "2.6.2",
     "hwType" : "CC26X2R1_LAUNCHXL",
     "imageType" : "ti"
