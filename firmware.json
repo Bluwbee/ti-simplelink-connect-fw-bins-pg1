@@ -1,12 +1,24 @@
 [
   {
-    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-app43000-v200+1.bin",
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-slot43000-v200+1.bin",
     "version" : "7.10.00.09_2.0.0+1",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-app43000-v300+1.bin",
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-slot43000-v300+1.bin",
+    "version" : "7.10.00.09_3.0.0+1",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-slot6000-v200+1.bin",
+    "version" : "7.10.00.09_2.0.0+1",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-slot6000-v300+1.bin",
     "version" : "7.10.00.09_3.0.0+1",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
