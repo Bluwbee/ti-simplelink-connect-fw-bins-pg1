@@ -1,62 +1,14 @@
 [
   {
-    "fileName" : "simple_peripheral_1.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
+    "fileName" : "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-app43000-v200+1.bin",
+    "version" : "7.10.00.09_2.0.0+1",
+    "hwType" : "LP_EM_CC2340R5-PG2",
+    "imageType" : "mcuboot"
   },
   {
-    "fileName" : "simple_peripheral_2.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_3.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_4.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_5.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_6.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_7.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_8.bin",
-    "version" : "2.6.2",
-    "hwType" : "CC26X2R1_LAUNCHXL",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "simple_peripheral_9.bin",
-    "version" : "7.10.00.09_2.0.0",
-    "hwType" : "LP_EM_CC2340R5",
-    "imageType" : "ti"
-  },
-  {
-    "fileName" : "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang_sdk7100009_v2.0.0.bin",
-    "version" : "7.10.00.09_2.0.0",
-    "hwType" : "LP_EM_CC2340R5",
+    "fileName" : "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang-sdk7100009-mcuboot-app43000-v300+1.bin",
+    "version" : "7.10.00.09_3.0.0+1",
+    "hwType" : "LP_EM_CC2340R5-PG2",
     "imageType" : "mcuboot"
   },
   {
