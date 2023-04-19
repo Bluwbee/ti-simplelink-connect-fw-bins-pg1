@@ -6,7 +6,7 @@ For on-chip OAD :-
 
 1.  Erase on-chip flash
 2.  Program
-    - Image 1 - mcuboot*.hex (AUTO)
+    - Image 1 - mcuboot_LP_EM_CC2340R5_nortos_ticlang-sdk7100009-onchip-slot6000_slot43000.hex (AUTO)
     - Image 2 - basic_persistent*.bin as binary at location 0x6000
     - Image 3 - the app (basic_ble_oad_onchip*.bin) as binary at location 0x43000 (optional)
 
@@ -14,6 +14,6 @@ For off-chip OAD :-
 
 1.  Erase on-chip flash
 2.  Program
-    - Image 1 - mcuboot*.hex (AUTO)
+    - Image 1 - mcuboot_LP_EM_CC2340R5_nortos_ticlang-sdk7100009-offchip-slot6000.hex (AUTO)
     - Image 2 - the app (basic_ble_oad_onchip*.bin) as binary at location 0x6000
-
+    
