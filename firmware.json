@@ -24,6 +24,12 @@
     "imageType" : "mcuboot"
   },
   {
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-v3.bin",
+    "version" : "7.10.00.09_3.0.0+1-76000",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
     "fileName" : "CC26X2R1_LAUNCHXL/simple_peripheral_oad_onchip_CC26X2R1_LAUNCHXL_tirtos7_ticlang_oad.bin",
     "version" : "2.6.2",
     "hwType" : "CC26X2R1_LAUNCHXL",
