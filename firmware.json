@@ -94,7 +94,13 @@
     "version" : "7.10.00.65c",
     "hwType" : "LP_EM_CC1354P10_6",
     "imageType" : "mcuboot"
-  },    
+  },
+  {
+    "fileName" : "LP_EM_CC1354P10_6/basic_ble_oad_onchip_LP_EM_CC1354P10_6_tirtos7_ticlang_2651.bin",
+    "version" : "7.10.00.98.test",
+    "hwType" : "LP_EM_CC1354P10_6_2651",
+    "imageType" : "mcuboot"
+  },
   {
     "fileName" : "LP_EM_CC2340R5_PG1/basic_ble_oad_LP_EM_CC2340R5_freertos_ticlang.bin",
     "version" : "6.40.00.21",
